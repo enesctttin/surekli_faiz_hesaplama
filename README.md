@@ -131,3 +131,6 @@ ortak modelidir.
 - Tarihsel karşılaştırma geçmiş verilere dayanır ve gelecek performans hakkında
   bilgi vermez.
 - Model vergi, komisyon ve enflasyon etkilerini hesaba katmaz.
+
+https://altin-faiz-kiyaslama-7csux5zjkw9sbehrkq6sve.streamlit.app/  
+
